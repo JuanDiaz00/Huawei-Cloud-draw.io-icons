@@ -5,3 +5,7 @@ Repository with Huawei Cloud usable icons for draw.io
 ### Step 1. Install the Huawei Cloud Icons.xml file
 
 ![image_alt](https://github.com/JuanDiaz00/Huawei-Cloud-draw.io-icons/blob/main/Images/Step%201.jpg)
+
+### Step 2. Open Draw.io and select Edit the Scratchpad
+
+![image_alt]()
